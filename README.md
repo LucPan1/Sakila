@@ -41,6 +41,11 @@ Pour installer et exécuter Sakila en local, suivez les étapes suivantes:
 4. Configurez le fichier `.env` avec les paramètres de votre base de données et autres configurations nécessaires.
 5. Lancez le serveur Nest en utilisant la commande `npm run start:dev` et tester les routes sur Postman.
 
+## Routes
+
+`http://localhost:3000/rental`: Permet la location de films.
+`http://localhost:3000/customer`: Permet d'ajouter, d'afficher, de modifier et de supprimer des clients.
+`http://localhost:3000/scheduled-tasks`: Affichage de toutes les tâches programmées.
 
 ## Licence
 
