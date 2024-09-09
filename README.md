@@ -39,4 +39,4 @@ Pour installer et exécuter Sakila en local, suivez les étapes suivantes:
 
 ## Licence
 
-Nest est [MIT licensed](LICENSE).
+Ce projet est sous [MIT licensed](LICENSE).
