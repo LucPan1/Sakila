@@ -6,8 +6,8 @@ Sakila est une application back-end qui va améliorer la gestion des retours en 
 
 <ul>
   <li>Gestion des Clients: Sakila permet aux utilisateurs de créer, afficher, modifier et supprimer des clients enregistrés sur l'application.</li>
+  <li>Planification de tâches: Une tâche planifiée qui envoie un email à J-5 à 12h00 et J-3 à 12h00 avant la date de retour de chaque location </li>*
   <li>Lister les tâches: Lister toutes les tâches planifiées</li>
-  <li>Planification de tâches: Une tâche planifiée qui envoie un email à J-5 à 12h00 et J-3 à 12h00 avant la date de retour de chaque location </li>
 </ul>  
 
 
