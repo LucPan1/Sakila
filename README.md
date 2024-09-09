@@ -17,7 +17,7 @@ Sakila est une application back-end qui va améliorer la gestion des retours en 
   <li>Nest js 10.4.2</li>
   <li>ORM Prisma 5.19.1</li>
   <li>PostgreSQL 16</li>
-  <li>@Cron() pour la planification de tâches</li>
+  <li>@Cron() est utilisé pour la planification de tâches.</li>
 </ul>  
 
 <p align="center">
