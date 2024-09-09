@@ -14,6 +14,8 @@ Sakila est une application back-end conçue pour optimiser la gestion des retour
 ## Technologies Utilisées
 
 - **Nest js 10.4.2**
+- Nest js 10.4.2
+- faeaffe
 <ul>
   <li>ORM Prisma 5.19.1</li>
   <li>PostgreSQL 16</li>
