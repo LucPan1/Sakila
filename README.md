@@ -5,7 +5,7 @@ Sakila est une application back-end conçue pour optimiser la gestion des retour
 ## Fonctionnalités Principales
 
 <ul>
-  <li>Gestion des Clients: Sakila permet aux utilisateurs d'ajouter, afficher, modifier et supprimer les clients enregistrés dans le système.</li>
+  <li><strong>Gestion des Clients:</strong> Sakila permet aux utilisateurs d'ajouter, afficher, modifier et supprimer les clients enregistrés dans le système.</li>
   <li>Planification de tâches: Une tâche planifiée envoie automatiquement un email aux clients 5 jours avant et 3 jours avant la date limite de retour de leur location, à          12h00.</li>
   <li>Effectuer une location de films: Les clients peuvent effectuer des locations de films.</li>
   <li>Lister les tâches: Affichage de toutes les tâches programmées.</li>
