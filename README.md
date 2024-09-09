@@ -1,4 +1,7 @@
-   # Sakila -  Gestion des retours de location de films
+# Sakila -  Gestion des retours de location de films
+
+Sakila est une application qui va améliorer la gestion des retours en rappelant aux clients la date d'échéance de leur location. Elle offre des fonctionnalités avancées pour créer, visualiser, modifier et supprimer des clients,
+
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
