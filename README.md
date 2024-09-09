@@ -3,7 +3,7 @@
 Sakila est une application back-end conçue pour optimiser la gestion des retours de films en rappelant aux clients la date limite de leur location. Elle offre des fonctionnalités complètes pour la gestion des clients, permettant de créer, consulter, modifier et supprimer les profils de clients.
 
 ## Fonctionnalités Principales
-
+- **Gestion des Contacts:** MyAgda permet aux utilisateurs de créer, afficher, modifier et supprimer des contacts enregistrés sur la plateforme.
 <ul>
   <li>Gestion des Clients: Sakila permet aux utilisateurs d'ajouter, afficher, modifier et supprimer les clients enregistrés dans le système.</li>
   <li>Planification de tâches: Une tâche planifiée envoie automatiquement un email aux clients 5 jours avant et 3 jours avant la date limite de retour de leur location, à          12h00.</li>
