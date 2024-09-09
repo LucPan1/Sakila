@@ -1,7 +1,18 @@
 # Sakila -  Gestion de location de films
 
-Sakila est une application qui va améliorer la gestion des retours en rappelant aux clients la date d'échéance de leur location. Elle offre des fonctionnalités avancées pour créer, visualiser, modifier et supprimer des clients,
+Sakila est une application back-end qui va améliorer la gestion des retours en rappelant aux clients la date d'échéance de leur location. Elle offre des fonctionnalités avancées pour créer, visualiser, modifier et supprimer des clients.
 
+## Fonctionnalités Principales
+
+Gestion des Clients: Sakila permet aux utilisateurs de créer, afficher, modifier et supprimer des clients enregistrés sur l'application.
+Lister les tâches: Lister toutes les tâches planifiées
+Planification de tâches: Une tâche planifiée qui envoie un email à J-5 à 12h00 et J-3 à 12h00 avant la date de retour de chaque location 
+
+## Technologies Utilisées
+
+Nest js 10.4.2
+ORM Prisma 5.19.1
+PostgreSQL
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
