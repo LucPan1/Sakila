@@ -25,7 +25,7 @@ Sakila est une application back-end conçue pour optimiser la gestion des retour
 Pour installer et exécuter Sakila en local, suivez les étapes suivantes:
 
 <ul>
-  <<ol>Clonez le dépôt du projet sur votre machine locale.</<ol>>
+  <ol>Clonez le dépôt du projet sur votre machine locale.</ol>
   <ol>Assurez-vous que Node.js et npm sont installés sur votre système.</ol>
   <ol>Exécutez npm install pour installer les dépendances du projet.</ol>
   <ol>Installer PostgreSQL sur votre ordinateur.</ol>
