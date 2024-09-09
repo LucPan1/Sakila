@@ -43,9 +43,9 @@ Pour installer et exécuter Sakila en local, suivez les étapes suivantes:
 
 ## Routes
 
-`http://localhost:3000/rental`: Permet la location de films.
-`http://localhost:3000/customer`: Permet d'ajouter, d'afficher, de modifier et de supprimer des clients.
-`http://localhost:3000/scheduled-tasks`: Affichage de toutes les tâches programmées.
+- `http://localhost:3000/rental`: Permet la location de films.
+- `http://localhost:3000/customer`: Permet d'ajouter, d'afficher, de modifier et de supprimer des clients.
+- `http://localhost:3000/scheduled-tasks`: Affichage de toutes les tâches programmées.
 
 ## Licence
 
