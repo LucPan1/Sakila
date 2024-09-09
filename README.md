@@ -39,7 +39,7 @@ Pour installer et exécuter Sakila en local, suivez les étapes suivantes:
 2. Assurez-vous que Node.js et npm sont installés sur votre système.
 3. Exécutez `npm install` pour installer les dépendances du projet.
 4. Configurez le fichier `.env` avec les paramètres de votre base de données et autres configurations nécessaires.
-5. Lancez le serveur Nest en utilisant la commande `npm run start:dev` et accédez-y dans votre navigateur web.
+5. Lancez le serveur Nest en utilisant la commande `npm run start:dev` et tester les routes sur Postman.
 
 
 ## Licence
