@@ -25,12 +25,12 @@ Sakila est une application back-end conçue pour optimiser la gestion des retour
 Pour installer et exécuter Sakila en local, suivez les étapes suivantes:
 
 <ul>
-  <li>1.Clonez le dépôt du projet sur votre machine locale.</li>
-  <li>2.Assurez-vous que Node.js et npm sont installés sur votre système.</li>
-  <li>3.Exécutez npm install pour installer les dépendances du projet.</li>
-  <li>4.Installer PostgreSQL sur votre ordinateur.</li>
-  <li>5.Configurez le fichier .env avec les paramètres de votre base de données et autres configurations nécessaires.</li>
-  <li>6.Lancez le serveur Nest en utilisant la commande npm run start:dev et accédez-y dans votre navigateur web.</li>
+  <<ol>Clonez le dépôt du projet sur votre machine locale.</<ol>>
+  <ol>Assurez-vous que Node.js et npm sont installés sur votre système.</ol>
+  <ol>Exécutez npm install pour installer les dépendances du projet.</ol>
+  <ol>Installer PostgreSQL sur votre ordinateur.</ol>
+  <ol>Configurez le fichier .env avec les paramètres de votre base de données et autres configurations nécessaires.</ol>
+  <ol>Lancez le serveur Nest en utilisant la commande npm run start:dev et accédez-y dans votre navigateur web.</ol>
 </ul> 
 
 
