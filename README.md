@@ -25,7 +25,7 @@ Pour installer et exécuter Sakila en local, suivez les étapes suivantes:
 
 1. Clonez le dépôt du projet sur votre machine locale.
 2. Assurez-vous que Node.js et npm sont installés sur votre système.
-3. Installer PostgreSQL sur votre ordinateur.
+3. Installer PostgreSQL sur votre ordinateur: Une fois l'installation terminée, saisissez un mot de passe qui sera utilisé pour vous connecter à PostgreSQL. Ouvrez ensuite un terminal et accédez au dossier PostgreSQL en utilisant la commande `cd C:\Program Files\PostgreSQL\votre_version_postgre\bin` (Modifiez votre chemin en conséquence pour qu'il corresponde à l'emplacement exact où PostgreSQL est installé sur votre système). Pour vous connecter à PostgreSQL, tapez `psql -U postgres` en tant qu'utilisateur postgres (l'administrateur par défaut) et entrez le mot de passe que vous avez créé précédemment.
 4. Exécutez `npm install` pour installer les dépendances du projet.
 5. Configurez le fichier `.env` avec les paramètres de votre base de données et autres configurations nécessaires.
 6. Lancez le serveur Nest en utilisant la commande `npm run start:dev` et accédez-y dans votre navigateur web.
