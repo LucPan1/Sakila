@@ -16,7 +16,12 @@ Sakila est une application back-end conçue pour optimiser la gestion des retour
 - **Nest js 10.4.2**
 - **ORM Prisma 5.19.1**
 - **PostgreSQL 16**
-- **Planification de tâches avec @Cron()** 
+- **Planification de tâches avec @Cron()**
+
+## Structure du projet
+
+- `/prisma`: Contient la gestion des modèles de données, des migrations et des opérations liées à la base de données dans un projet NestJS utilisant Prisma
+- `/src`: Contient la logique de chaque components avec customer, emails, rental, schedule
 
 
 ## Installation de PostgreSQL 
