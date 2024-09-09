@@ -1,14 +1,14 @@
-# Sakila -  Gestion de location de films
+# Sakila -  Gestion de la location de films
 
-Sakila est une application back-end qui va améliorer la gestion des retours en rappelant aux clients la date d'échéance de leur location. Elle offre des fonctionnalités avancées pour créer, visualiser, modifier et supprimer des clients.
+Sakila est une application back-end conçue pour optimiser la gestion des retours de films en rappelant aux clients la date limite de leur location. Elle offre des fonctionnalités complètes pour la gestion des clients, permettant de créer, consulter, modifier et supprimer les profils de clients.
 
 ## Fonctionnalités Principales
 
 <ul>
-  <li>Gestion des Clients: Sakila permet aux utilisateurs de créer, afficher, modifier et supprimer des clients enregistrés sur l'application.</li>
-  <li>Planification de tâches: Une tâche planifiée qui envoie un email à J-5 à 12h00 et J-3 à 12h00 avant la date de retour de chaque location </li>
-  <li>Effectuer une location de films: Le client peut effectuer une location de films</li>
-  <li>Lister les tâches: Lister toutes les tâches planifiées</li>
+  <li>Gestion des Clients: Sakila permet aux utilisateurs d'ajouter, afficher, modifier et supprimer les clients enregistrés dans le système.</li>
+  <li>Planification de tâches: Une tâche planifiée envoie automatiquement un email aux clients 5 jours avant et 3 jours avant la date limite de retour de leur location, à          12h00.</li>
+  <li>Effectuer une location de films: Les clients peuvent effectuer des locations de films.</li>
+  <li>Lister les tâches: Affichage de toutes les tâches programmées.</li>
 </ul>  
 
 ## Technologies Utilisées
@@ -17,8 +17,22 @@ Sakila est une application back-end qui va améliorer la gestion des retours en 
   <li>Nest js 10.4.2</li>
   <li>ORM Prisma 5.19.1</li>
   <li>PostgreSQL 16</li>
-  <li>@Cron() est utilisé pour la planification de tâches.</li>
+  <li>Planification de tâches avec @Cron()</li>
 </ul>  
+
+## Installation 
+
+Pour installer et exécuter Sakila en local, suivez les étapes suivantes:
+
+<ul>
+  <li>1.Clonez le dépôt du projet sur votre machine locale.</li>
+  <li>2.Assurez-vous que Node.js et npm sont installés sur votre système.</li>
+  <li>3.Exécutez npm install pour installer les dépendances du projet.</li>
+  <li>4.Installer PostgreSQL sur votre ordinateur.</li>
+  <li>5.Configurez le fichier .env avec les paramètres de votre base de données et autres configurations nécessaires.</li>
+  <li>6.Lancez le serveur Nest en utilisant la commande npm run start:dev et accédez-y dans votre navigateur web.</li>
+</ul> 
+
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
