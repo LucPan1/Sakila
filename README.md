@@ -11,8 +11,6 @@ Sakila est une application back-end qui va améliorer la gestion des retours en 
   <li>Lister les tâches: Lister toutes les tâches planifiées</li>
 </ul>  
 
-
-
 ## Technologies Utilisées
 
 <ul>
