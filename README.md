@@ -11,7 +11,9 @@ Planification de tâches: Une tâche planifiée qui envoie un email à J-5 à 12
 ## Technologies Utilisées
 
 Nest js 10.4.2
+
 ORM Prisma 5.19.1
+
 PostgreSQL
 
 <p align="center">
