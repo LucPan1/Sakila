@@ -20,7 +20,7 @@ Sakila est une application back-end conçue pour optimiser la gestion des retour
 
 ## Structure du projet
 
-- `/prisma`: Contient la gestion des modèles de données, des migrations et des opérations liées à la base de données dans un projet NestJS utilisant Prisma
+- `/prisma`: Contient la gestion des modèles de données, des migrations et des opérations liées à la base de données utilisant Prisma
 - `/src`: Contient la logique de chaque components avec customer, emails, rental, schedule
 
 
